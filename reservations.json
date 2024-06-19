@@ -17,5 +17,29 @@
             4,
             6
         ]
+    },
+    {
+        "name": "Mani",
+        "last_name": "Momeni",
+        "age": 17,
+        "chair_numbers": [
+            65,
+            27,
+            31,
+            88,
+            91
+        ]
+    },
+    {
+        "name": "Naghmeh",
+        "last_name": "Hojjati",
+        "age": 65,
+        "chair_numbers": [
+            5,
+            7,
+            8,
+            9,
+            10
+        ]
     }
 ]
