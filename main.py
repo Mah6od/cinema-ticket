@@ -1,4 +1,5 @@
 from reservation_manager import load_reservations, save_reservations
+from ticket import generate_ticket_image
 
 # Function to check if a chair is available
 def is_chair_available(reservations, chair_number):
@@ -49,6 +50,8 @@ def make_reservation():
 
     reservations.append(reservation)
     save_reservations(reservations)
+
+    generate_ticket_image(name, last_name, age, chair_numbers)
 
     print("Reservation successful!")
 
