@@ -8,5 +8,14 @@
             2,
             3
         ]
+    },
+    {
+        "name": "Mani",
+        "last_name": "Zamanpour",
+        "age": 20,
+        "chair_numbers": [
+            4,
+            5
+        ]
     }
 ]
