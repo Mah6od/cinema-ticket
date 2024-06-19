@@ -10,44 +10,27 @@
         ]
     },
     {
-        "name": "Mani",
-        "last_name": "Zamanpour",
-        "age": 20,
+        "name": "Fatemeh",
+        "last_name": "Motamed",
+        "age": 35,
         "chair_numbers": [
-            4,
-            5
-        ]
-    },
-    {
-        "name": "Media",
-        "last_name": "Zamanpour",
-        "age": 16,
-        "chair_numbers": [
-            6,
-            7,
-            8,
-            9,
             10
         ]
     },
     {
-        "name": "Ali",
-        "last_name": "Fakhri",
-        "age": 30,
+        "name": "Gholam",
+        "last_name": "Gholami",
+        "age": 40,
         "chair_numbers": [
-            11,
-            12,
-            13
+            70
         ]
     },
     {
-        "name": "mahan",
-        "last_name": "ghorbani",
-        "age": 27,
+        "name": "mani",
+        "last_name": "maleki",
+        "age": 12,
         "chair_numbers": [
-            20,
-            21,
-            22
+            4
         ]
     }
 ]
