@@ -9,6 +9,7 @@ The Cinema Ticket is a Python-based application designed to manage cinema seat r
 - **Check Reservations**: Verify if a specific user has made any reservations.
 - **View Empty Seats**: Display a visual grid showing available and reserved seats.
 <img src="chairs/seat_chart.png" alt="Seat Layout" width="500"/>
+
 - **Generate Tickets**: Create and save a ticket image with reservation details.
 <img src="tickets/ticket_Mahbod_Zamanpour.png" alt="Sample Ticket" width="500"/>
 
