@@ -29,5 +29,15 @@
             9,
             10
         ]
+    },
+    {
+        "name": "Ali",
+        "last_name": "Fakhri",
+        "age": 30,
+        "chair_numbers": [
+            11,
+            12,
+            13
+        ]
     }
 ]
