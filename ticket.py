@@ -21,7 +21,7 @@ def get_random_character_image(gender):
     return random.choice(images)
 
 def generate_ticket_image(name, last_name, age, chair_numbers, gender):
-    width, height = 500, 200 + 30 * len(chair_numbers)  # Increased width to accommodate character image
+    width, height = 500, 125
     ticket = Image.new("RGB", (width, height), "white")
     draw = ImageDraw.Draw(ticket)
 

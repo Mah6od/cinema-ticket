@@ -4,33 +4,7 @@
         "last_name": "Zamanpour",
         "age": 24,
         "chair_numbers": [
-            1,
-            2,
-            3
-        ]
-    },
-    {
-        "name": "Fatemeh",
-        "last_name": "Motamed",
-        "age": 35,
-        "chair_numbers": [
-            10
-        ]
-    },
-    {
-        "name": "Gholam",
-        "last_name": "Gholami",
-        "age": 40,
-        "chair_numbers": [
-            70
-        ]
-    },
-    {
-        "name": "mani",
-        "last_name": "maleki",
-        "age": 12,
-        "chair_numbers": [
-            4
+            1
         ]
     }
 ]
