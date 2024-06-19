@@ -1,17 +1,4 @@
-import json
-import os
-
-# Function to load reservations from file
-def load_reservations(file_name="reservations.json"):
-    if os.path.exists(file_name):
-        with open(file_name, "r") as file:
-            return json.load(file)
-    return []
-
-# Function to save reservations to file
-def save_reservations(reservations, file_name="reservations.json"):
-    with open(file_name, "w") as file:
-        json.dump(reservations, file, indent=4)
+from reservation_manager import load_reservations, save_reservations
 
 # Function to check if a chair is available
 def is_chair_available(reservations, chair_number):
@@ -52,4 +39,5 @@ def make_reservation():
     print("Reservation successful!")
 
 # Run the reservation function
-make_reservation()
+if __name__ == "__main__":
+    make_reservation()

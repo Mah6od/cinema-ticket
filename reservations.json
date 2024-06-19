@@ -17,5 +17,17 @@
             4,
             5
         ]
+    },
+    {
+        "name": "Media",
+        "last_name": "Zamanpour",
+        "age": 16,
+        "chair_numbers": [
+            6,
+            7,
+            8,
+            9,
+            10
+        ]
     }
 ]
